@@ -1,0 +1,5 @@
+venv
+venv_for_taski_docker
+.git 
+.env
+db.sqlite3 
